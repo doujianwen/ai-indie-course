@@ -2,6 +2,7 @@
 
 > Version: v1.0 (Phase 5 detailed scripting, post ADR-004 scope upgrade)
 > **Language role (per ADR-005)**: This English doc is the **localization reference** for the eventual English course. The execution-first working source is **Chinese** — actual per-lesson recording scripts will be produced in Chinese first, validated, then localized to English (translate / voice-over), not rewritten.
+> **Chinese execution source (recording-ready)**: `07-zh-m8-m9-m10-lesson-scripts.md` — the per-lesson scripts instructors actually record from (Chinese narration, expanded from this outline).
 > Source of truth for teaching assets: `bookconv.com` real repo + real GSC/GA4 data (selective disclosure, see §0).
 > Companion docs: `prd/PRD.md` (v1.2, AC-7), `01-tech-outline.md` (Phase 7, Ch 18–20), `06-curriculum-spec.md`, `decisions/ADR-005-language-sequencing.md`.
 
