@@ -13,7 +13,7 @@
 | 目录 | 内容 |
 |---|---|
 | `prd/` | 产品需求文档（PRD v1.2，含 AC-6 样本书闸门、诚实账本选择性披露、v1.2 范围升级：内容策划 + SEO/GEO 运营 + 防跑偏） |
-| `architecture/` | 技术章节大纲（17 章映射 6 Phase）、演示产物 Spec、openapi 契约、ADR-001~003 |
+| `architecture/` | 技术章节大纲（17 章映射 6 Phase）、演示产物 Spec、openapi 契约、ADR-001~005 |
 | `design/` | 设计契约（DESIGN.md 9 节）、design-tokens.json（24 条 iconMap）、双主题 tokens.css、三页视觉方向 |
 
 ## 什么**不**在本仓（留主站）
@@ -40,6 +40,7 @@ ai-indie-course/
 5. 预备章 00/0X 计入总时长统计口径。
 6. G1 增长复盘截图**隐去绝对数值**再展示。
 7. **v1.2 范围升级**：内容策划（M8）+ SEO/GEO 运营增长（M9）+ 防跑偏 / 第三视角纠错机制（M10，借旧版 `ai-independent-dev/correction-agent` 概念）从 v2 提前至 v1 主线；bookconv 已有 SEO/GEO 真实实践与数据（87 页内容体系、一页吃整簇、llms.txt/robots GEO、GSC/GA4 复盘）作为课程核心素材（详见 `architecture/decisions/ADR-004-scope-upgrade.md`）。
+8. **语言时序（ADR-005）**：目标市场 = 英文 / 海外学员（bookconv 即英文产品）；**执行路径 = 中文先跑通**（中文 = 原型 / 单一事实源）。英文版 = 已验证产品的本地化（翻译/配音），非重写。现有中文规划文档留作内部源；`07` 英文版为本地化目标参考。先用中文 mini 版（免费小课/直播）验证教学与转化，再投入英文全量制作。
 
 ## 关联项目
 
