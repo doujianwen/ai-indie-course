@@ -15,6 +15,7 @@
 | `prd/` | 产品需求文档（PRD v1.2，含 AC-6 样本书闸门、诚实账本选择性披露、v1.2 范围升级：内容策划 + SEO/GEO 运营 + 防跑偏） |
 | `architecture/` | 技术章节大纲（17 章映射 6 Phase）、演示产物 Spec、openapi 契约、ADR-001~005 |
 | `design/` | 设计契约（DESIGN.md 9 节）、design-tokens.json（24 条 iconMap）、双主题 tokens.css、三页视觉方向 |
+| `materials/` | 做站实战素材（bookconv 真实运营记录提炼：每日日志汇总 / 主题聚类 / GA分析 / 部署SOP / 发布前清单），课程引用真实数字与踩坑的案例证据 |
 
 ## 什么**不**在本仓（留主站）
 
